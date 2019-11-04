@@ -41,8 +41,10 @@ https://docs.aws.amazon.com/pt_br/blockchain-templates/latest/developerguide/blo
 https://docs.aws.amazon.com/pt_br/blockchain-templates/latest/developerguide/blockchain-template-getting-started-prerequisites.html
 
 
-3- Instruções:
+3- Instruções
+
 https://docs.aws.amazon.com/pt_br/blockchain-templates/latest/developerguide/blockchain-templates-create-stack.html
+
 
 
 Deploy smart contracts to your private Ethereum blockchain network on AWS:
@@ -66,7 +68,7 @@ https://console.aws.amazon.com/qldb/home#/gettingStarted
 
 Criar uma "ledger" - nome: vehicle-registration
 
-Carregar 0s dados de exemplo - Load sample data
+Carregar os dados de exemplo - Load sample data
 
 Enviar "prints" das seguintes tarefas:
 
@@ -166,7 +168,7 @@ https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/app
 ### 4.1 Criar o ambiente no Azure Blockchain - 1,5 pontos
 Enviar um "print" do ambiente criado
 
-### 4.2 Publicar o exemplo Hello, Blockchain! - 1 ponto
+### 4.2 Publicar o exemplo Hello, Blockchain - 1 ponto
 Enviar um "print" com o deploy de pelo menos 2 instancias de Hello, Blockchain, com mensagens e respostas
 
 
